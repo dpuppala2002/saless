@@ -1,0 +1,20 @@
+/* styles/globals.css */
+.app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .main-content {
+    flex-grow: 1;
+    padding: 20px;
+  }
+  
+  .reviews-section {
+    margin-top: 40px;
+  }
+  
+  .review-item {
+    margin-bottom: 20px;
+  }
+  
